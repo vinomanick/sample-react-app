@@ -1,0 +1,6 @@
+dist
+public
+README.md
+.vscode
+package.json
+yarn-error.log
