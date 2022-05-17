@@ -1,3 +1,3 @@
 export const App = () => {
-  return <div>Rendered from react app</div>;
+  return <div data-testid="app-content">Rendered from react app</div>;
 };
